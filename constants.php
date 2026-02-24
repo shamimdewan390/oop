@@ -9,3 +9,5 @@ class enum {
 
 echo enum::NAME;
 
+
+
