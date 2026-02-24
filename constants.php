@@ -3,7 +3,7 @@
 
 
 class enum {
-    const NAME = "my name is shamim";
+    const NAME = "my name is shamim dewan";
 }
 
 
